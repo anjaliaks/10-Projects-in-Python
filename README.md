@@ -31,7 +31,7 @@ You can find my projects <a href="http://github.com/anjaliaks/">here.</a>
 
 ## Project-4
 #### Check-Internet-Connection
-- You just need to run this program in proper IDE, it will returns o/p True if your system is connected through Internet, otherwise False.
+- You just need to run this program in proper IDE, it will show your system is connected through Internet or not.
 ##
 
 
